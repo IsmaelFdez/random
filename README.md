@@ -1,2 +1,2 @@
-Genaerador aleatorio de números.
-Muestra si es superior o inferior a 0.5.
+Generador aleatorio de números.
+Indica la posición del número generado respecto a 0.5.
